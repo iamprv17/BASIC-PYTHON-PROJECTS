@@ -1,3 +1,5 @@
+#Madlibs is a word game where one player prompts another for a list of words to substitute for blanks in a story.
+
 def madlibs():
     noun1 = input("Enter a noun: ")
     verb1 = input("Enter a verb: ")
