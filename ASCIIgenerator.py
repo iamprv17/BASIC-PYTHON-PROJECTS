@@ -1,5 +1,5 @@
-#ASCII Art Generator
-
+#ASCII Art Generator.
+ 
 def pyramid():
     pyramid = ["   #   ", "  ###  ", " ##### ", "#######"]
     for row in pyramid:
